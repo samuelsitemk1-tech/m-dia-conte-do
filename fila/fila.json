@@ -1,0 +1,18 @@
+{
+  "conta_instagram": "@osamuestrategista",
+  "fuso": "America/Sao_Paulo",
+  "horarios": ["12:00", "17:00", "19:00"],
+  "posts": [
+    {
+      "id": "2026-11-17-google-ou-instagram",
+      "titulo": "Google ou Instagram",
+      "formato": "carrossel",
+      "pasta": "carrosseis/2026-11-google-ou-instagram",
+      "imagens": 8,
+      "data_hora": "2026-11-17T17:36:00-03:00",
+      "status": "publicado",
+      "media_id": "17921193156528205",
+      "legenda": "(publicado manualmente no teste inicial)"
+    }
+  ]
+}
