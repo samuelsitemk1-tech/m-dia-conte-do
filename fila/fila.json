@@ -1,7 +1,11 @@
 {
   "conta_instagram": "@osamuestrategista",
   "fuso": "America/Sao_Paulo",
-  "horarios": ["12:00", "17:00", "19:00"],
+  "horarios": [
+    "12:00",
+    "17:00",
+    "19:00"
+  ],
   "posts": [
     {
       "id": "2026-11-17-google-ou-instagram",
@@ -13,6 +17,17 @@
       "status": "publicado",
       "media_id": "17921193156528205",
       "legenda": "(publicado manualmente no teste inicial)"
+    },
+    {
+      "id": "2026-11-18-como-ter-ideia",
+      "titulo": "Como ter ideia de conteúdo",
+      "formato": "reels",
+      "pasta": "reels/2026-11-18-como-ter-ideia",
+      "video": "video.mp4",
+      "capa": "capa.jpg",
+      "data_hora": "2026-11-18T12:00:00-03:00",
+      "status": "rascunho",
+      "legenda": "Como eu tenho tanta ideia de conteúdo? Não é dom. É uma técnica que os gênios já usavam.\n\nEla se chama janela de tempo criativa. Funciona assim:\n\n1. Reserve um horário fixo na agenda só pra pensar. Pode ser 1 ou 2 horas.\n2. Nesse espaço de tempo, não pode ter telefone, pessoas falando nem distrações.\n3. Só papel e caneta. Rabisca, escreve, desenha, reflete.\n\nO conteúdo vai se formando quando você menos espera.\n\nDa Vinci, Einstein, Darwin, Beethoven, Edison, Tesla e Picasso criavam assim: no papel, à mão, longe do barulho.\n\nA maioria de nós tenta ter ideia rolando o feed, no meio de notificação e mensagem. Aí a cabeça só consome, não cria.\n\nTesta essa semana: uma janela, papel e caneta. Depois me conta o que saiu.\n\nVocê consegue largar o celular por uma hora pra pensar? Responde SIM nos comentários 👇"
     }
   ]
 }
