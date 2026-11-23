@@ -53,9 +53,11 @@
       "video": "video.mp4",
       "capa": "capa.jpg",
       "data_hora": "2026-11-23T09:00:00-03:00",
-      "status": "aprovado",
+      "status": "publicado",
       "legenda": "A nova onda da internet já começou. E provavelmente você já viu ela passando no seu feed.\n\nVídeo com motion design, cena em 3D, transição pra todo lado. O tipo de conteúdo que antes era coisa de quem tinha editor, programa caro e horas de trabalho.\n\n// O que mudou\n\n- editar vídeo ficou muito mais fácil\n- produzir um vídeo com motion design também\n- dá pra fazer sozinho, sem equipe e sem passar a noite editando\n\n// Como isso pode te ajudar\n\n01. No seu próprio perfil: mais conteúdo, com mais qualidade visual, sem depender de ninguém pra editar.\n\n02. Como serviço: se você fizer bem feito, dá pra vender pra outras empresas. Muito negócio quer vídeo assim e não tem tempo nem equipe pra produzir.\n\n// O detalhe que importa\n\nNão vai ser muito diferente das outras ondas: uma hora vai saturar. Quando todo mundo estiver fazendo, o formato deixa de chamar atenção sozinho e o que vai contar é a ideia por trás do vídeo.\n\nPor isso a hora de aprender é agora. Quem começa antes já está pronto quando a maioria ainda estiver testando. Enquanto não satura, usufruir o máximo.\n\nAh, e esse vídeo que você acabou de ver? Eu fiz 100% com o Claude. Não cheguei nem a abrir um editor de vídeo.\n\nSe você quiser fazer igual, comenta CLAUDE.",
-      "aprovado_em": "2026-11-22T13:57:00-03:00"
+      "aprovado_em": "2026-11-22T13:57:00-03:00",
+      "media_id": "18150662104600900",
+      "publicado_em": "2026-11-23T08:47:11-03:00"
     }
   ]
 }
